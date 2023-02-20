@@ -22,7 +22,7 @@ And yet, ChatGPT's userbase grew in an unprecedented rate. It attracted 1 millio
 
 This begs the question: 
 
-> 사람들은 왜 ChatGPT에 열광하는가? GPT3나 ChatGPT나 성능은 비슷하다. 하지만 ChatGPT는 무엇이 다르길래 전례없는 성장률을 매일 갱신하고 있는가? 
+> 사람들은 왜 ChatGPT에 열광하는가? GPT3나 ChatGPT나 성능은 비슷하다. 하지만 ChatGPT는 무엇이 다르길래 매일 성장률 신기록을 갱신하고 있는가? 
 
 
 ## The Task 

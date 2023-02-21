@@ -14,7 +14,7 @@ ChatGPT Sprints to One Million Users [(*Statista*, 2023)](https://www.statista.c
 --- | 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56193069/220108372-8c8a5440-08c7-4a06-84e1-6448c1a5bfaa.png"> |
 
-And yet, ChatGPT's userbase grew in an unprecedented rate. It attracted 1 million users in merely 5 days. GPT3's attraction was no where near to this when it was released to the public 3 years ago.
+And yet, ChatGPT's userbase grew in an unprecedented rate. It attracted 1 million users in merely 5 days. GPT3's attraction was no where near this when it was released to the public 3 years ago.
 
 
  

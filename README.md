@@ -46,6 +46,8 @@ video |
 
 (slides in PDF... )
 
+(A summary of points discussed ... )
+
 contributors:
 ... | ... | ... | ... | 
 --- | --- | --- | --- | 
@@ -60,6 +62,8 @@ video |
 ... |
  
 (slides in PDF... )
+
+(A summary of points discussed ... )
 
 
 contributors:
@@ -77,6 +81,10 @@ video |
  
 (slides in PDF... )
 
+(A summary of points discussed ... )
+
+
+
 contributors:
 ... | ... | ... | ... | 
 --- | --- | --- | --- | 
@@ -92,6 +100,8 @@ video |
  
 
 (slides in PDF... )
+
+(A summary of points discussed ... )
 
 
 contributors:

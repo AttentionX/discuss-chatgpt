@@ -37,7 +37,7 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Answers
 
-### Course Leaders - from an HCI perspective
+### Course leaders - from an HCI perspective
 
 video |
 --- |

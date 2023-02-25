@@ -7,7 +7,7 @@ GPT3 consists of 175 billion learnable parameters | ChatGPT is of comparable siz
 --- | --- 
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/56193069/220109130-05982db8-5774-4499-a24a-5c2f7065bcf2.png"> | <img width="873" alt="image" src="https://user-images.githubusercontent.com/56193069/220110434-e5004402-94ef-4bf0-86d6-c1acc9960a41.png"> | 
  
-ChatGPT is of comparable size to GPT3. Thus, it is reasonable to assume that they are equally intelligent. Their overall performance should be more or less the same.
+ChatGPT is of comparable size to GPT3. Thus, in the regime of the scaling laws for neural language models [(Kaplan et al., 2020)](https://arxiv.org/abs/2001.08361), it is reasonable to assume that their overall performance should be more or less the same.
 
 
 ChatGPT Sprints to One Million Users [(*Statista*, 2023)](https://www.statista.com/chart/29174/time-to-one-million-users/) |
@@ -28,16 +28,33 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Task 
 팀 별로 토의 후 위 질문에 답해주세요. 
-팀에서 내린 결론을 발표해주시면 됩니다.
+팀에서 내린 결론을 발표해주시면 됩니다. 
 대화형 검색의 관점도 좋고, 심리학의 관점도 좋고, 경제학의 관점도 좋습니다. 
 다양한 관점에서 자유롭게 사고하여 팀별로 설득력있는 주장을 펼쳐주세요.
 
-> ⚠️ 뇌피셜을 방지하기 위해 반드시 관련 논문/데이터/인터뷰를 1인당 하나 이상 인용하여 질문에 답해주세요. 
+> ⚠️ 뇌피셜을 지양하기 위해 반드시 관련 논문/데이터/인터뷰를 1인당 하나 이상 인용하여 질문에 답해주세요. 
 
 
 ## Answers
 
-###  Team 1
+### Course Leaders - from an HCI perspective
+
+video |
+--- |
+... | 
+
+(Slides in PDF )
+
+(A summary of points discussed ...)
+
+contributors:
+
+Ha Hyeon Choi | Eu-Bin KIM
+--- | --- 
+... | ...
+
+
+###  Team 1️⃣ - from an ... perspective
 
 
 video | 
@@ -55,7 +72,7 @@ contributors:
 
 
 
-### Team 2
+### Team 2️⃣ - from an ... perspective
 
 video | 
 --- |
@@ -73,7 +90,7 @@ contributors:
 
 
 
-### Team 3
+### Team 3️⃣ - from an ... perspective 
 
 video | 
 --- |
@@ -92,7 +109,7 @@ contributors:
 
 
 
-### Team 4
+### Team 4️⃣ - from an ... perspective
 
 video | 
 --- |

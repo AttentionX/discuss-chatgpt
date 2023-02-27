@@ -84,9 +84,9 @@ video |
 
 
 contributors:
-... | ... | ... | ... | 
---- | --- | --- | --- | 
-... | ... | ... | ... | 
+[Minyoung Kang](https://github.com/MYKang) | [Sungkyung Kim](https://github.com/waitzkin) | [Yuri Kim](https://github.com/yuridekim) | [Hyunjoon-Kim](https://github.com/d01c2) | [JunYoung Park](https://github.com/engineerA314) | 
+--- | --- | --- | --- | --- | 
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/13043229?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/63830702?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/63735383?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/79785117?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/86403521?v=4"> | 
 
 
 

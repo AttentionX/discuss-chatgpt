@@ -113,17 +113,17 @@ contributors:
 
 [ChatGPT Performance Analysis](https://docs.google.com/presentation/d/1RO21ao2n2luSvQzgsEr34ZYS9UwcjVX3Bm7GG9XMGI0/edit?usp=sharing)
 1. 모델별 성능 비교
- 1. 팩트 테스트
- 2. 수학 테스트
+    1. 팩트 테스트
+    2. 수학 테스트
 2. GPT-3의 versatility
- 1. Few-shot Learning
- 2. Code Debugging
- 3. Complex Creation
+    1. Few-shot Learning
+    2. Code Debugging
+    3. Complex Creation
 3. LLM의 미래
- 1. Multimodal
- 2. Source
- 3. Web Browsing (Live)
- 4. Context Length
+    1. Multimodal
+    2. Source
+    3. Web Browsing (Live)
+    4. Context Length
 
 
 video | 

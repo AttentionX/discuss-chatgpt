@@ -108,25 +108,20 @@ contributors:
 --- | --- | --- | ---|---
 ... |... | ... | ... | ...
 
-### Team 4️⃣ - performance
+### Team 4️⃣ - analysis / performance / future
 
-[ChatGPT Performance Analysis](https://docs.google.com/presentation/d/1RO21ao2n2luSvQzgsEr34ZYS9UwcjVX3Bm7GG9XMGI0/edit?usp=sharing)
-1. 모델별 성능 비교
-    1. 팩트 테스트
-    2. 수학 테스트
-2. GPT-3의 versatility
-    1. Few-shot Learning
-    2. Code Debugging
-    3. Complex Creation
-3. LLM의 미래
-    1. Multimodal
-    2. Source
-    3. Web Browsing (Live)
-    4. Context Length
+["Why ChatGPT?"](https://class101.notion.site/Why-ChatGPT-230228-e5afdbfc29854024a200e473ea2905ad)
+1. Why ChatGPT?
+    1. Analysis
+    2. Performance
+2. Future LLMs (Gen.AI)
+    1. Products
+    2. Impacts
+    3. Key Factors
 
+(Presented with Notion... )
 
 contributors:
-이아담 | 이기상 | 김용환 | 김태형 | 
+[이아담](https://github.com/Abecid) | [이기상](https://github.com/bobopack) | [김용환](https://github.com/trytoYH) | [김태형](https://github.com/TaeHyungKim1114) | 
 --- | --- | --- | --- | 
 ... | ... | ... | ... | 
-

@@ -37,11 +37,13 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Answers
 
-### Course leaders - from an HCI perspective
-
 video |
 --- |
 ... | 
+
+
+### Course leaders - from an HCI perspective
+
 
 (Slides in PDF )
 
@@ -57,9 +59,6 @@ Ha Hyeon Choi | Eu-Bin KIM
 ###  Team 1️⃣ - from an ... perspective
 
 
-video | 
---- |
-... |
 
 (slides in PDF... )
 
@@ -74,10 +73,6 @@ contributors:
 
 ### Team 2️⃣ - from an ... perspective
 
-video | 
---- |
-... |
- 
 (slides in PDF... )
 
 (A summary of points discussed ... )
@@ -92,14 +87,10 @@ contributors:
 
 ### Team 3️⃣ - from an ... perspective 
 
-video | 
---- |
-... |
- 
+
 (slides in PDF... )
 
 (A summary of points discussed ... )
-
 
 
 contributors:
@@ -125,11 +116,6 @@ contributors:
     3. Web Browsing (Live)
     4. Context Length
 
-
-video | 
---- |
-... |
- 
 
 (slides in PDF... )
 

@@ -44,10 +44,11 @@ video (28th of Feb 2023) |
 
 ### Course leaders - HCI / ethics / productivity
 
+[HCI / ethics / productivity](https://www.notion.so/Course-leaders-HCI-ethics-productivity-3014736c595c48888f00ba9bf6a29c57?pvs=4)
 
-(Slides in PDF )
-
-(A summary of points discussed ...)
+- Why is ChatGPT so successful?
+- Shneiderman’s  eight “golden rules” of interface design —  a human-computer interaction perspective
+- But why did Tay / 이루다(2021) fail?  — ethics and  productivity
 
 contributors:
 

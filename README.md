@@ -71,17 +71,25 @@ contributors:
 
 
 
-### Team 2️⃣ - from an ... perspective
+### Team 2️⃣ - from a comprehensive perspective; marketing and the product itself
 
-(slides in PDF... )
+ 
+[Slides for \<DiscussGPT\> Why ChatGPT?](https://docs.google.com/presentation/d/1_QeHi6DktJ6Udan_8VS__Mni1pX8TesjOebO6ZsKOR8/edit#slide=id.p)
 
-(A summary of points discussed ... )
+<왜 사람들은 ChatGPT에 열광하는가>
+1. GPT3 vs ChatGPT
+2. 성공요인 1: 마케팅적 우위
+3. 성공요인 2: 제품적 우위
+- 데이터 타입: 이미지 vs 텍스트
+- GPT3, GPT3.5, ChatGPT 기술적 성능 차이 - PPO
+- “Chat”이라는 핵심에 집중한 제품적 우위(코딩 및 교육)
+4. 부록: <제 2의 기계시대>
 
 
 contributors:
-... | ... | ... | ... | 
---- | --- | --- | --- | 
-... | ... | ... | ... | 
+[Minyoung Kang](https://github.com/MYKang) | [Sungkyung Kim](https://github.com/waitzkin) | [Yuri Kim](https://github.com/yuridekim) | [Hyunjoon-Kim](https://github.com/d01c2) | [JunYoung Park](https://github.com/engineerA314) | 
+--- | --- | --- | --- | --- | 
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/13043229?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/63830702?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/63735383?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/79785117?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/86403521?v=4"> | 
 
 
 

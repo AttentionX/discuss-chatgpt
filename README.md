@@ -42,7 +42,7 @@ video |
 ... | 
 
 
-### Course leaders - from an HCI perspective
+### Course leaders - HCI / ethics / productivity
 
 
 (Slides in PDF )
@@ -71,7 +71,7 @@ contributors:
 
 
 
-### Team 2️⃣ - from a comprehensive perspective; marketing and the product itself
+### Team 2️⃣ - marketing and the product itself
 
  
 [Slides for \<DiscussGPT\> Why ChatGPT?](https://docs.google.com/presentation/d/1_QeHi6DktJ6Udan_8VS__Mni1pX8TesjOebO6ZsKOR8/edit#slide=id.p)
@@ -93,18 +93,21 @@ contributors:
 
 
 
-### Team 3️⃣ - from a Market Adoption perspective
+### Team 3️⃣ -  expectation gap / market adoption
 
-[PDF](https://github.com/AttentionX/discuss-chatgpt/files/10848106/team3.pdf)
+[The success of ChatGPT: the era of interface adoption](https://github.com/AttentionX/discuss-chatgpt/files/10848106/team3.pdf)
 
 1. Ready from day1
 2. Expectation gap
 3. Intellectual, creative task
 4. Message interface
 
-contributors: [이유종](https://github.com/yujong-lee), 박윤아, 박준우, 오주상, 오채영
+contributors: 
+[이유종](https://github.com/yujong-lee) |  박윤아 |  박준우 |  오주상 |  오채영
+--- | --- | --- | ---|---
+... |... | ... | ... | ...
 
-### Team 4️⃣ - from an ... perspective
+### Team 4️⃣ - performance
 
 [ChatGPT Performance Analysis](https://docs.google.com/presentation/d/1RO21ao2n2luSvQzgsEr34ZYS9UwcjVX3Bm7GG9XMGI0/edit?usp=sharing)
 1. 모델별 성능 비교
@@ -121,13 +124,8 @@ contributors: [이유종](https://github.com/yujong-lee), 박윤아, 박준우, 
     4. Context Length
 
 
-(slides in PDF... )
-
-(A summary of points discussed ... )
-
-
 contributors:
-... | ... | ... | ... | 
+이아담 | 이기상 | 김용환 | 김태형 | 
 --- | --- | --- | --- | 
 ... | ... | ... | ... | 
 

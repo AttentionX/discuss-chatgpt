@@ -85,20 +85,16 @@ contributors:
 
 
 
-### Team 3️⃣ - from an ... perspective 
+### Team 3️⃣ - from a Market Adoption perspective
 
+[PDF](https://github.com/AttentionX/discuss-chatgpt/files/10846658/team3.pdf)
 
-(slides in PDF... )
+1. Ready from day1
+2. Expectation gap
+3. Intellectual, creative task
+4. Message interface
 
-(A summary of points discussed ... )
-
-
-contributors:
-... | ... | ... | ... | 
---- | --- | --- | --- | 
-... | ... | ... | ... | 
-
-
+contributors: [이유종](https://github.com/yujong-lee), 박윤아, 박준우, 오주상, 오채영
 
 ### Team 4️⃣ - from an ... perspective
 

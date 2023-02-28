@@ -87,7 +87,7 @@ contributors:
 
 ### Team 3️⃣ - from a Market Adoption perspective
 
-[PDF](https://github.com/AttentionX/discuss-chatgpt/files/10846658/team3.pdf)
+[PDF](https://github.com/AttentionX/discuss-chatgpt/files/10848106/team3.pdf)
 
 1. Ready from day1
 2. Expectation gap

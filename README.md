@@ -66,9 +66,6 @@ contributors:
  <img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222049287-ed4aa2d2-b4d9-421f-b07f-799bf2d8b0e4.png"> | 
 
 
- [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
-
-
 [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
 
 

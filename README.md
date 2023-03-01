@@ -91,6 +91,12 @@ contributors:
 
 ### Team 2️⃣ - marketing and the product itself
 
+
+ [27:32 ~ 40:28](https://youtu.be/u-bYGc85v2s?t=1652) 🗣️ Minyoung Kang | 
+ --- | 
+ <img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222050012-7944b3e6-9b7d-4a7d-91bd-34f751b33b9a.png"> | 
+
+
  
 [Slides for \<DiscussGPT\> Why ChatGPT?](https://docs.google.com/presentation/d/1_QeHi6DktJ6Udan_8VS__Mni1pX8TesjOebO6ZsKOR8/edit#slide=id.p)
 

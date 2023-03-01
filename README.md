@@ -117,7 +117,12 @@ contributors:
 
 
 
-### Team 3️⃣ -  expectation gap / market adoption
+### Team 3️⃣ -  interface adoption
+
+[43:40 ~ 51:54](https://youtu.be/u-bYGc85v2s?t=2620) 🗣️ Yujong Lee | 
+--- |
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222050976-ce4fa3d9-4db6-4f4c-bf5e-7837cef7c7f6.png"> | 
+
 
 [The success of ChatGPT: the era of interface adoption](https://github.com/AttentionX/discuss-chatgpt/files/10848106/team3.pdf)
 
@@ -133,6 +138,11 @@ contributors:
 
 ### Team 4️⃣ - analysis / performance / future
 
+[54:40 ~ 1:13:05](https://youtu.be/u-bYGc85v2s?t=3280)  🗣️ Ki Sang Lee |
+--- | 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222051153-0c5b8c5d-1650-4bbc-89dc-17b4032872cf.png"> | 
+
+
 ["Why ChatGPT?"](https://class101.notion.site/Why-ChatGPT-230228-e5afdbfc29854024a200e473ea2905ad)
 1. Why ChatGPT?
     1. Analysis
@@ -142,7 +152,6 @@ contributors:
     2. Impacts
     3. Key Factors
 
-(Presented with Notion... )
 
 contributors:
 [이아담](https://github.com/Abecid) | [이기상](https://github.com/bobopack) | [김용환](https://github.com/trytoYH) | [김태형](https://github.com/TaeHyungKim1114) | 

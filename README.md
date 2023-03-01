@@ -52,18 +52,31 @@ video (28th of Feb 2023) |
 
 contributors:
 
-[Ha Hyeon Choi](https://github.com/hahyeon610) | Eu-Bin KIM
+[Ha Hyeon Choi](https://github.com/hahyeon610) | [Eu-Bin KIM](https://github.com/eubinecto)
 --- | --- 
-<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49430956?s=400&v=4"> | ...
-
-
-###  Team 1️⃣ - from an ... perspective
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49430956?s=400&v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/56193069?v=4">
 
 
 
-(slides in PDF... )
 
-(A summary of points discussed ... )
+###  Team 1️⃣ -  Diffusion of innovations
+
+
+[Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
+
+
+- Diffusion of Innovations
+  - Perceived Advantage
+  - Compatibility with existing values and practices
+  - We are comfortable with text
+  - Simple to use
+  - Trialability
+  - Observability
+- Then, why not GPT3?
+  - UX!
+  - Affordance
+- GenAI에 대한 Hype이 옮겨붙었다?
+
 
 contributors:
 ... | ... | ... | ... | 

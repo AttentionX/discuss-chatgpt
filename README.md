@@ -37,12 +37,12 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Answers
 
-video (28th of Feb 2023) |
---- |
-... | 
-
 
 ### Course leaders - HCI / ethics / productivity
+
+[13:51 ~ 26:48](https://youtu.be/u-bYGc85v2s?t=831) 🗣️ Eu-Bin KIM | 
+ --- | 
+ <img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222048612-90090f9d-4705-43a6-9396-a994b05f1d9d.png"> | 
 
 [HCI / ethics / productivity](https://www.notion.so/Course-leaders-HCI-ethics-productivity-3014736c595c48888f00ba9bf6a29c57?pvs=4)
 
@@ -60,6 +60,13 @@ contributors:
 
 
 ###  Team 1️⃣ -  Diffusion of innovations
+
+[1:16:21 ~ 1:24:26](https://youtu.be/u-bYGc85v2s?t=4594) 🗣️ Marc Zen | 
+ --- | 
+ <img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222049287-ed4aa2d2-b4d9-421f-b07f-799bf2d8b0e4.png"> | 
+
+
+ [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
 
 
 [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
@@ -79,7 +86,7 @@ contributors:
 
 
 contributors:
-[강병준](https://github.com/juny-ai) | [오효민](https://github.com/hyomin010101) | [정순호](https://github.com/aschung01) | [조주환](https://github.com/juhwancho) | 
+[강병준 (Marc Zen)](https://github.com/juny-ai) | [오효민](https://github.com/hyomin010101) | [정순호](https://github.com/aschung01) | [조주환](https://github.com/juhwancho) | 
 --- | --- | --- | --- | 
 <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/122071344?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/122374374?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/72554932?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49906112?v=4"> | 
 

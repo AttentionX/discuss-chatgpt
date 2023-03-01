@@ -37,12 +37,12 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Answers
 
+video (28th of Feb 2023) |
+--- |
+... | 
+
+
 ### Course leaders - HCI / ethics / productivity
-
-[13:51 ~ 26:48](https://youtu.be/u-bYGc85v2s?t=831) 🗣️ Eu-Bin KIM | 
---- | 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222048612-90090f9d-4705-43a6-9396-a994b05f1d9d.png"> | 
-
 
 [HCI / ethics / productivity](https://www.notion.so/Course-leaders-HCI-ethics-productivity-3014736c595c48888f00ba9bf6a29c57?pvs=4)
 
@@ -60,10 +60,6 @@ contributors:
 
 
 ###  Team 1️⃣ -  Diffusion of innovations
-
-[1:16:21 ~ 1:24:26](https://youtu.be/u-bYGc85v2s?t=4594) 🗣️ Marc Zen | 
---- | 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222049287-ed4aa2d2-b4d9-421f-b07f-799bf2d8b0e4.png"> | 
 
 
 [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
@@ -83,19 +79,13 @@ contributors:
 
 
 contributors:
-... | ... | ... | ... | 
+[강병준](https://github.com/juny-ai) | [오효민](https://github.com/hyomin010101) | [정순호](https://github.com/aschung01) | [조주환](https://github.com/juhwancho) | 
 --- | --- | --- | --- | 
-... | ... | ... | ... | 
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/122071344?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/122374374?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/72554932?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49906112?v=4"> | 
 
 
 
 ### Team 2️⃣ - marketing and the product itself
-
-[27:32 ~ 40:28](https://youtu.be/u-bYGc85v2s?t=1652) 🗣️ Minyoung Kang | 
---- | 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222050012-7944b3e6-9b7d-4a7d-91bd-34f751b33b9a.png"> | 
-
-
 
  
 [Slides for \<DiscussGPT\> Why ChatGPT?](https://docs.google.com/presentation/d/1_QeHi6DktJ6Udan_8VS__Mni1pX8TesjOebO6ZsKOR8/edit#slide=id.p)
@@ -127,9 +117,9 @@ contributors:
 4. Message interface
 
 contributors: 
-[이유종](https://github.com/yujong-lee) |  박윤아 |  박준우 |  오주상 |  오채영
+[이유종](https://github.com/yujong-lee) |  [박윤아](https://github.com/gyuuuna) |  [박준우](https://github.com/aeoebe) |  [오주상](https://github.com/Ever2after) |  [오채영](https://github.com/himychae)
 --- | --- | --- | ---|---
-... |... | ... | ... | ...
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/61503739?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/86581647?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/121885500?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/62290044?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/43671061?v=4">
 
 ### Team 4️⃣ - analysis / performance / future
 
@@ -147,4 +137,4 @@ contributors:
 contributors:
 [이아담](https://github.com/Abecid) | [이기상](https://github.com/bobopack) | [김용환](https://github.com/trytoYH) | [김태형](https://github.com/TaeHyungKim1114) | 
 --- | --- | --- | --- | 
-... | ... | ... | ... | 
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/41438776?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/48293283?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/94563455?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/114808127?v=4"> | 

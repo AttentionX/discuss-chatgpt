@@ -37,12 +37,12 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 
 ## Answers
 
-video (28th of Feb 2023) |
---- |
-... | 
-
-
 ### Course leaders - HCI / ethics / productivity
+
+[13:51 ~ 26:48](https://youtu.be/u-bYGc85v2s?t=831) 🗣️ Eu-Bin KIM | 
+--- | 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222048612-90090f9d-4705-43a6-9396-a994b05f1d9d.png"> | 
+
 
 [HCI / ethics / productivity](https://www.notion.so/Course-leaders-HCI-ethics-productivity-3014736c595c48888f00ba9bf6a29c57?pvs=4)
 
@@ -60,6 +60,10 @@ contributors:
 
 
 ###  Team 1️⃣ -  Diffusion of innovations
+
+[1:16:21 ~ 1:24:26](https://youtu.be/u-bYGc85v2s?t=4594) 🗣️ Marc Zen | 
+--- | 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222049287-ed4aa2d2-b4d9-421f-b07f-799bf2d8b0e4.png"> | 
 
 
 [Why the heck did ChatGPT succeed?](https://github.com/AttentionX/discuss-chatgpt/files/10857222/default.pdf)
@@ -86,6 +90,12 @@ contributors:
 
 
 ### Team 2️⃣ - marketing and the product itself
+
+[27:32 ~ 40:28](https://youtu.be/u-bYGc85v2s?t=1652) 🗣️ Minyoung Kang | 
+--- | 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222050012-7944b3e6-9b7d-4a7d-91bd-34f751b33b9a.png"> | 
+
+
 
  
 [Slides for \<DiscussGPT\> Why ChatGPT?](https://docs.google.com/presentation/d/1_QeHi6DktJ6Udan_8VS__Mni1pX8TesjOebO6ZsKOR8/edit#slide=id.p)

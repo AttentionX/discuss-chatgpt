@@ -52,9 +52,9 @@ video (28th of Feb 2023) |
 
 contributors:
 
-Ha Hyeon Choi | Eu-Bin KIM
+[Ha Hyeon Choi](https://github.com/hahyeon610) | Eu-Bin KIM
 --- | --- 
-... | ...
+<img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49430956?s=400&v=4"> | ...
 
 
 ###  Team 1️⃣ - from an ... perspective

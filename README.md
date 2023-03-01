@@ -126,7 +126,7 @@ contributors:
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/56193069/222050976-ce4fa3d9-4db6-4f4c-bf5e-7837cef7c7f6.png"> | 
 
 
-[The success of ChatGPT: the era of interface adoption](https://github.com/AttentionX/discuss-chatgpt/files/10848106/team3.pdf)
+[The success of ChatGPT: the era of interface adoption](https://github.com/AttentionX/discuss-chatgpt/files/10861462/team3.pdf)
 
 1. Ready from day1
 2. Expectation gap

@@ -37,7 +37,7 @@ GPT3나 ChatGPT나 성능은 비슷하다. ChatGPT는 무엇이 다르길래 사
 > ⚠️ 뇌피셜을 지양하기 위해 반드시 직/간접적 데이터를 (논문, 통계, 인터뷰, 이론 등) 인용해 주장을 뒷받침해주세요. 
 
 
-## Answers
+## Discussions
 
 
 ### Course leaders - HCI / ethics / productivity
@@ -159,3 +159,10 @@ contributors:
 [이아담](https://github.com/Abecid) | [이기상](https://github.com/bobopack) | [김용환](https://github.com/trytoYH) | [김태형](https://github.com/TaeHyungKim1114) | 
 --- | --- | --- | --- | 
 <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/41438776?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/48293283?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/94563455?v=4"> | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/114808127?v=4"> | 
+
+
+## Bringing it all together
+
+> Everything goes 에 그치지 말고 좀 더 고차원적인 사고를 해보자. 그래서 결론은? 모든 관점과 데이터를 관통하는 하나의 결론이 있다면 무엇인가?
+
+(🚧 공사중 ... )

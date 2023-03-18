@@ -12,6 +12,29 @@ GPT3 consists of 175 billion learnable parameters | ChatGPT is of comparable siz
 ChatGPT is of comparable size to GPT3. Thus, in the regime of the scaling laws for neural language models [(Kaplan et al., 2020)](https://arxiv.org/abs/2001.08361), it is reasonable to assume that their overall performance should be more or less the same.
 
 
+<details>
+    <summary>GPT3 (text-danvinci-003) and ChatGPT return more or less the same results</summary>
+
+Prompt: Write a 300-word value-packed book summary of the book “The 4-Hour Workweek” | 
+--- | 
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/56193069/226143134-02b32dad-9bc2-4e70-80dc-d6a173cb7390.png"> | 
+
+
+Prompt: If I could read only 10 self-help books in 2023, which ones would you suggest are the best? | 
+--- | 
+<img width="679" alt="image" src="https://user-images.githubusercontent.com/56193069/226143170-bef70664-385e-46c0-b7b8-7c07fc611a62.png"> | 
+
+Prompt: Write an 800-word Statement Of Purpose to apply to the University Of Texas for a Master’s in I/O Psychology | 
+--- | 
+<img width="663" alt="image" src="https://user-images.githubusercontent.com/56193069/226143223-746289aa-0bbf-4fbb-916b-340bbeeb15fd.png"> <img width="644" alt="image" src="https://user-images.githubusercontent.com/56193069/226143230-6bd0fde0-1b8f-4b0f-a82b-4f334c6fdd18.png"> | 
+
+
+</details>
+
+
+
+
+
 ChatGPT Sprints to One Million Users [(*Statista*, 2023)](https://www.statista.com/chart/29174/time-to-one-million-users/) |
 --- | 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56193069/220108372-8c8a5440-08c7-4a06-84e1-6448c1a5bfaa.png"> |
